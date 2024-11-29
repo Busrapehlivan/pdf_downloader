@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Multi-Agent-AI-System-for-Collaborative-Task-Completion
 =======
 # Multi-Agent PDF Downloader
@@ -45,4 +45,4 @@ By default, it will search for papers about "machine learning optimization algor
 ## Note
 
 Please ensure you comply with the terms of service of academic paper repositories and respect copyright laws when downloading papers.
->>>>>>> 8b881a4 (Initial commit)
+
